@@ -60,14 +60,14 @@
         "ConnectionString": null
       },
       "Access": {
-        "DiffSql": false,
+        "DiffSql": true,
         "FullSql": false,
         "ConnectionString": null
       }
     },
     "Docs": {
       "Csv": false,
-      "Wmf": true
+      "Wmf": false
     },
     "Metadata": {
       "Crp": false,
